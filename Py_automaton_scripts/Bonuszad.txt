@@ -1,0 +1,18 @@
+Odgovor:
+
+Od broja 100 u matematickom i logickom smislu mozemo broj 10 oduzeti tocno 10 puta dok ne dodemo na 0,
+ali ako ne gledamo broj 0 kao kraj oduzimanja i idemo u negativne vrijednosti:
+
+broj 100 kada bi oduzeli 10 tocno 214748364 puta dobili bi broj: −2147483540. Drugim rijecima broj −2147483540 je 214748364 puta broj −10.
+
+Koji naravno nema nikakvo posebno znacenje :D
+
+
+
+Jedino po cemu je broj 214748364 specifičan jer je jedan manji od polovice maksimalnog pozitivnog broja koji može biti predstavljen u 32-bitnom sustavu sa potpisom (signed integer).
+
+U 32-bitnom sustavu, maksimalni broj koji može biti predstavljen kao signed integer (s predznakom) je 2147483647, dok minimalni broj (najmanji negativni broj) je -2147483648.
+
+Dakle, 214748364 je 2147483647 podijeljeno s 10.
+
+Ugl. ne znam bas dobar odogovor na ovo pitanje nazalost. 
